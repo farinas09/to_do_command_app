@@ -4,6 +4,9 @@
 *.ap_
 *.aab
 
+node_modules/
+db/*.json
+
 # Files for the ART/Dalvik VM
 *.dex
 
